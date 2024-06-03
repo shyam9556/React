@@ -1,0 +1,68 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "shyam"
+    },
+    {
+      "id": "shyam ",
+      "name": "shyam sakhiya",
+      "password": "Shyam@@00",
+      "email": "shyamsakhiya@gmail.com",
+      "phone": "8160895822",
+      "country": "india",
+      "address": "Rajkot",
+      "gender": "male"
+    },
+    {
+      "id": "shayj",
+      "name": "sfadad",
+      "password": "saafsfafas",
+      "email": "samarthpopat14@gmail.com",
+      "phone": "08160895822",
+      "country": "india",
+      "address": "safas",
+      "gender": "female"
+    },
+    {
+      "id": "sss",
+      "name": "shyam sakhiya",
+      "password": "asadad",
+      "email": "shyamsakhiya@gmail.com",
+      "phone": "08160895822",
+      "country": "india",
+      "address": "Rajkot",
+      "gender": "female"
+    },
+    {
+      "id": "shayn",
+      "name": "shyam sakhiya",
+      "password": "shagdagdi",
+      "email": "shyamsakhiya@gmail.com",
+      "phone": "08160895822",
+      "country": "india",
+      "address": "asa",
+      "gender": "female"
+    },
+    {
+      "id": "sss",
+      "name": "sfadad",
+      "password": "sssss",
+      "email": "samarthpopat14@gmail.com",
+      "phone": "08160895822",
+      "country": "india",
+      "address": "safas",
+      "gender": "female"
+    },
+    {
+      "id": "shyam",
+      "name": "sfadad",
+      "password": "shyam",
+      "email": "samarthpopat14@gmail.com",
+      "phone": "08160895822",
+      "country": "india",
+      "address": "safas",
+      "gender": "female"
+    }
+  ]
+}
